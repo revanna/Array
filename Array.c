@@ -11,5 +11,5 @@
 char* returnArray()
 {
 	
-	return arr;
+
 }
